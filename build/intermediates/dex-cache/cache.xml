@@ -1,2 +1,147 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/hania/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/guava-jdk5-13.0_5e7e05f55806d1dcf60f139a77aa6eecb7b16360/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_17c5174d774afc9bcae926fe8dd6a24c0eba87be/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_1ebecc08c2fc20460a6fbbe55b00bc7910e209e0/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_dd59c0870340388669cb298a29cad57096ce4c88/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.19.0/cdca49ad0977c040f603478aa2e16b2775c8fec6/google-http-client-1.19.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/google-http-client-1.19.0_fab38ff620f9d22f973760563f669c4ff20bb178/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/incremental-classes/paid/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c7593971d0e1bdd7dfbcfd78bfc0c5afdb6769dd">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/instant-run-bootstrap_b35da42629e29571f2ed576d16990f20df6a3423/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/com.android.support-support-v4-23.3.0_5e18dcb814fb181c160b91a3a7148f5ad3edbad0/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.19.0/6a21277d9bebe267b7ddee028b241eebc756c040/google-api-client-1.19.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/google-api-client-1.19.0_4ddc920443de09ddf84b3f186abab97a6558e9e4/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/jackson-core-2.1.3_6b843e8812d0ba5adb2435eb0961c7d2eb54b7f9/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.19.0/e3f11020c2c812112803d252d1392872d3f619c8/google-http-client-android-1.19.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/google-http-client-android-1.19.0_a5016013a72534fd58c2bebb4882e296f5f5720f/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.19.0/d473a8962e14a707a3716637e4898bb2dd9643f2/google-oauth-client-1.19.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/google-oauth-client-1.19.0_e2e8fb76bf625f7ca9415d82fb942d1ff0818e1c/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/jsr305-1.3.9_e05ca10c6445f0abb0183f64f79b456e55084f1a/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_c54201e0ea12651fbbd8f10a6fb26d5bde66cc55/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.19.0/81dbf9795d387d5e80e55346582d5f2fb81a42eb/google-http-client-jackson2-1.19.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/google-http-client-jackson2-1.19.0_8e175961019b100cab138aa65d63d5ccb79e5381/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.19.0/ba2aafb867f6af469f936ae76426cf0a280094bd/google-api-client-android-1.19.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/google-api-client-android-1.19.0_3d22b8e8b76cf825f35620c83a7215fb7060d360/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/support-annotations-23.3.0_16ef4ee2a061fe2e2cf9eaf4a5d864e902d059f5/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/.gradle/caches/modules-2/files-2.1/com.google.appengine/appengine-api-1.0-sdk/1.9.18/831d0186441861511cb2d5d3ed5983f352c2d6f1/appengine-api-1.0-sdk-1.9.18.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="831d0186441861511cb2d5d3ed5983f352c2d6f1">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/appengine-api-1.0-sdk-1.9.18_2621cda6f0c3f0367aa033c42b5040d1bbe63048/classes3.dex" />
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/appengine-api-1.0-sdk-1.9.18_2621cda6f0c3f0367aa033c42b5040d1bbe63048/classes2.dex" />
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/appengine-api-1.0-sdk-1.9.18_2621cda6f0c3f0367aa033c42b5040d1bbe63048/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/incremental-runtime-classes/paid/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a670170c6bfd7c79c4be7bd5fb9399cd736b5671">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/instant-run_7b79c48594920f3d56fd1c12831d0e04ef2ea47b/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/com.android.support-design-23.2.1_946d4e9f831f113c64d92ee0b23a89f29ce60abf/classes.dex" />
+    </item>
+    <item
+        jar="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/hania/AndroidStudioProjects/project4-2/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/internal_impl-23.3.0_9869e8b3ada39eb91f40773ce99f830794a52bb3/classes.dex" />
+    </item>
+
+</items>
